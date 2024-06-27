@@ -1,5 +1,7 @@
 package com.openmpy.hellospring;
 
+import com.openmpy.hellospring.payment.Payment;
+import com.openmpy.hellospring.payment.PaymentService;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

@@ -1,4 +1,6 @@
-package com.openmpy.hellospring;
+package com.openmpy.hellospring.exrate;
+
+import com.openmpy.hellospring.payment.ExRateProvider;
 
 import java.io.IOException;
 import java.math.BigDecimal;

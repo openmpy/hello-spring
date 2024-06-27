@@ -1,4 +1,4 @@
-package com.openmpy.hellospring;
+package com.openmpy.hellospring.payment;
 
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,7 @@
-package com.openmpy.hellospring;
+package com.openmpy.hellospring.exrate;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.openmpy.hellospring.payment.ExRateProvider;
 
 import java.io.BufferedReader;
 import java.io.IOException;

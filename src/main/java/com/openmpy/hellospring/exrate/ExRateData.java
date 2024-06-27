@@ -1,4 +1,4 @@
-package com.openmpy.hellospring;
+package com.openmpy.hellospring.exrate;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

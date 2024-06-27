@@ -1,4 +1,4 @@
-package com.openmpy.hellospring;
+package com.openmpy.hellospring.payment;
 
 import java.io.IOException;
 import java.math.BigDecimal;
